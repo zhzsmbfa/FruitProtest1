@@ -11,5 +11,6 @@ public class gittest {
         System.out.println("woshishei");
         System.out.println("p1ffenzhi");
         System.out.println("zheshigithubgaideo");
+        System.out.println("fuckyou");
     }
 }
