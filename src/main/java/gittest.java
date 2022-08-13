@@ -9,5 +9,7 @@ public class gittest {
         System.out.println("test2");
         System.out.println("p1ffenzhfghfi");
         System.out.println("woshishei");
+        System.out.println("p1ffenzhi");
+        System.out.println("zheshigithubgaideo");
     }
 }
