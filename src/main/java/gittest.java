@@ -5,6 +5,7 @@
 public class gittest {
     public static void main(String[] args) {
         System.out.println("heheh");
-        System.out.println("asfas");
+        System.out.println("as8fas");
+        System.out.println("test2");
     }
 }
